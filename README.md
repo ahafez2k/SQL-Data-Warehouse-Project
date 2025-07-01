@@ -11,7 +11,7 @@ The data architecture for this project follows **Medallion Architecture** model,
 - **Silver Layer**: Cleansed, standardized, and structured data prepared for analysis.
 - **Gold Layer**: Business-ready data modeled in a star schema, optimized for reporting and analytics.
 
-![Image](https://github.com/user-attachments/assets/783c7602-f46a-4121-aba8-da364fdd920a)
+![Data Architecture](docs/data_architecture.png)
 
 ---
 
